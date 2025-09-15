@@ -143,7 +143,9 @@ ul.nav-links li a:hover {
     padding: 15px;
     border-radius: 15px;
 }
-
+.ctn_btn{
+    text-decoration: none;
+}
 .home_page {
     display: flex;
     flex-direction: row-reverse;
